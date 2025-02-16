@@ -199,6 +199,8 @@ static char **ngx_os_environ;
 
 
 int ngx_cdecl
+
+// nginx 启动入口
 main(int argc, char *const *argv)
 {
     ngx_int_t         i;

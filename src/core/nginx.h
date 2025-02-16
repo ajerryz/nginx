@@ -4,6 +4,12 @@
  * Copyright (C) Nginx, Inc.
  */
 
+/**
+ * #ifndef 预处理指令
+ *
+ * 下面的意思是：如果没有定义 _NGINX_H_INCLUDE_ 这个宏,
+ * 则定义一些宏
+ */
 
 #ifndef _NGINX_H_INCLUDED_
 #define _NGINX_H_INCLUDED_
