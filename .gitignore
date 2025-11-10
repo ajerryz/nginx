@@ -2,3 +2,6 @@
 .DS_Store
 
 ajerryz_build
+bin
+objs
+.vscode
