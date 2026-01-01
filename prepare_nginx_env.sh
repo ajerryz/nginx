@@ -5,7 +5,7 @@
 #   准备nginx环境
 # ===
 bash ./auto/configure \
-  --prefix="$PWD/ajerryz_build" \
+  --prefix="$PWD/00_docs/build" \
   --without-http_rewrite_module
 
 echo "configure success"

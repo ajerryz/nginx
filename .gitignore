@@ -1,7 +1,7 @@
 .idea
 .DS_Store
 
-ajerryz_build
+00_docs/build
 bin
 objs
 .vscode
