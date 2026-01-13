@@ -2,6 +2,8 @@
 .DS_Store
 
 00_docs/build
+00_docs/bin
 bin
+build
 objs
 .vscode
