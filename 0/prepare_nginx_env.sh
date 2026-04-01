@@ -176,8 +176,11 @@
 
   # --with-debug                       enable debug logging
 # ===
+
+cd ..
+
 bash ./auto/configure \
-  --prefix="$PWD/00_docs/build" \
+  --prefix="$PWD/0/nginx" \
   --without-http_rewrite_module
 
 echo "configure success"

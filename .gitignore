@@ -1,9 +1,7 @@
 .idea
 .DS_Store
 
-00_docs/build
-00_docs/bin
+0/nginx
 bin
-build
 objs
 .vscode
